@@ -1,4 +1,3 @@
-# healthcare-nav-agent
 # Healthcare Navigation Agent
 
 An AI agent on AWS Bedrock that helps patients navigate the *real* complexity of
@@ -50,6 +49,3 @@ cost-controlled, PHI-aware, and fully provisioned as code.
 - **Not medical advice.** The agent navigates *process* (coverage, referrals,
   scheduling) and is explicitly guardrailed against clinical recommendations.
 - Personal project, personal AWS account. Not affiliated with any employer.
-```
-
-Setup details will expand as phases land.
